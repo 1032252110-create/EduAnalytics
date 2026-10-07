@@ -1,0 +1,7 @@
+student_id,name,email,branch,semester,subject,internal_marks,external_marks,total_classes,attended_classes
+STU1001,Aarav Sharma,aarav.sharma@example.edu,Computer Science,5,Data Structures,36,54,45,42
+STU1001,Aarav Sharma,aarav.sharma@example.edu,Computer Science,5,Operating Systems,34,50,40,38
+STU1002,Diya Patel,diya.patel@example.edu,Computer Science,5,Database Systems,28,42,45,35
+STU1003,Rohan Verma,rohan.verma@example.edu,Information Tech,4,Computer Networks,18,25,40,22
+STU1004,Ananya Iyer,ananya.iyer@example.edu,Data Science,3,Machine Learning,38,56,44,43
+STU1005,Kabir Mehta,kabir.mehta@example.edu,Mechanical Eng,4,Thermodynamics,24,36,45,33

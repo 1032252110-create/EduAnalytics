@@ -1,0 +1,97 @@
+student_id,name,email,branch,semester,subject,internal_marks,external_marks,total_marks,total_classes,attended_classes,assignment_score,previous_semester_percentage
+STU1001,Aarav Sharma,aarav.sharma@example.edu,Computer Science,5,Data Structures,36,54,90,45,42,92,88.5
+STU1001,Aarav Sharma,aarav.sharma@example.edu,Computer Science,5,Operating Systems,34,50,84,40,38,88,88.5
+STU1001,Aarav Sharma,aarav.sharma@example.edu,Computer Science,5,Database Systems,38,55,93,42,40,95,88.5
+STU1002,Diya Patel,diya.patel@example.edu,Computer Science,5,Data Structures,28,42,70,45,35,76,72.0
+STU1002,Diya Patel,diya.patel@example.edu,Computer Science,5,Operating Systems,26,38,64,40,32,70,72.0
+STU1002,Diya Patel,diya.patel@example.edu,Computer Science,5,Database Systems,30,45,75,42,34,78,72.0
+STU1003,Rohan Verma,rohan.verma@example.edu,Information Tech,5,Data Structures,16,22,38,45,24,45,51.0
+STU1003,Rohan Verma,rohan.verma@example.edu,Information Tech,5,Web Technologies,18,25,43,40,22,48,51.0
+STU1003,Rohan Verma,rohan.verma@example.edu,Information Tech,5,Cloud Computing,15,20,35,42,20,40,51.0
+STU1004,Ananya Iyer,ananya.iyer@example.edu,Data Science,3,Machine Learning,38,56,94,44,43,96,91.2
+STU1004,Ananya Iyer,ananya.iyer@example.edu,Data Science,3,Linear Algebra,35,53,88,40,39,90,91.2
+STU1004,Ananya Iyer,ananya.iyer@example.edu,Data Science,3,Python for Data Science,39,58,97,42,42,98,91.2
+STU1005,Kabir Mehta,kabir.mehta@example.edu,Mechanical Eng,4,Thermodynamics,24,36,60,45,33,65,62.5
+STU1005,Kabir Mehta,kabir.mehta@example.edu,Mechanical Eng,4,Fluid Mechanics,22,35,57,40,30,60,62.5
+STU1005,Kabir Mehta,kabir.mehta@example.edu,Mechanical Eng,4,Kinematics,25,38,63,42,31,64,62.5
+STU1006,Ishita Gupta,ishita.gupta@example.edu,Electronics & Comm,6,Digital Signal Processing,32,48,80,45,40,84,79.8
+STU1006,Ishita Gupta,ishita.gupta@example.edu,Electronics & Comm,6,VLSI Design,30,44,74,40,36,78,79.8
+STU1006,Ishita Gupta,ishita.gupta@example.edu,Electronics & Comm,6,Embedded Systems,33,50,83,42,39,85,79.8
+STU1007,Aditya Rao,aditya.rao@example.edu,Computer Science,3,Object Oriented Programming,14,18,32,45,21,38,45.0
+STU1007,Aditya Rao,aditya.rao@example.edu,Computer Science,3,Discrete Mathematics,12,19,31,40,19,35,45.0
+STU1007,Aditya Rao,aditya.rao@example.edu,Computer Science,3,Computer Organization,15,21,36,42,20,40,45.0
+STU1008,Sanya Kulkarni,sanya.k@example.edu,Information Tech,4,Computer Networks,35,52,87,45,41,89,83.0
+STU1008,Sanya Kulkarni,sanya.k@example.edu,Information Tech,4,Software Engineering,33,49,82,40,38,85,83.0
+STU1008,Sanya Kulkarni,sanya.k@example.edu,Information Tech,4,Information Security,34,51,85,42,40,88,83.0
+STU1009,Vikram Singh,vikram.singh@example.edu,Mechanical Eng,5,Heat Transfer,18,28,46,45,26,50,53.4
+STU1009,Vikram Singh,vikram.singh@example.edu,Mechanical Eng,5,Manufacturing Tech,20,30,50,40,25,52,53.4
+STU1009,Vikram Singh,vikram.singh@example.edu,Mechanical Eng,5,Machine Design,17,26,43,42,24,48,53.4
+STU1010,Pooja Nair,pooja.nair@example.edu,Data Science,5,Deep Learning,37,55,92,45,43,94,89.0
+STU1010,Pooja Nair,pooja.nair@example.edu,Data Science,5,Big Data Analytics,36,52,88,40,38,90,89.0
+STU1010,Pooja Nair,pooja.nair@example.edu,Data Science,5,Natural Language Processing,35,53,88,42,40,91,89.0
+STU1011,Nikhil Joshi,nikhil.joshi@example.edu,Civil Eng,3,Structural Analysis,22,34,56,45,30,58,58.0
+STU1011,Nikhil Joshi,nikhil.joshi@example.edu,Civil Eng,3,Surveying,24,36,60,40,28,62,58.0
+STU1011,Nikhil Joshi,nikhil.joshi@example.edu,Civil Eng,3,Building Materials,25,38,63,42,30,65,58.0
+STU1012,Riya Sen,riya.sen@example.edu,Electronics & Comm,4,Microprocessors,27,41,68,45,36,72,70.5
+STU1012,Riya Sen,riya.sen@example.edu,Electronics & Comm,4,Control Systems,26,40,66,40,33,70,70.5
+STU1012,Riya Sen,riya.sen@example.edu,Electronics & Comm,4,Electromagnetic Waves,29,43,72,42,35,74,70.5
+STU1013,Arjun Kapoor,arjun.k@example.edu,Computer Science,6,Artificial Intelligence,33,48,81,45,39,83,78.2
+STU1013,Arjun Kapoor,arjun.k@example.edu,Computer Science,6,Compiler Design,31,46,77,40,35,79,78.2
+STU1013,Arjun Kapoor,arjun.k@example.edu,Computer Science,6,Computer Graphics,34,49,83,42,38,85,78.2
+STU1014,Tanvi Deshmukh,tanvi.d@example.edu,Information Tech,3,Data Structures,30,45,75,45,38,80,75.0
+STU1014,Tanvi Deshmukh,tanvi.d@example.edu,Information Tech,3,Operating Systems,28,42,70,40,34,72,75.0
+STU1014,Tanvi Deshmukh,tanvi.d@example.edu,Information Tech,3,Database Systems,31,46,77,42,36,78,75.0
+STU1015,Kunal Bansal,kunal.b@example.edu,Mechanical Eng,6,CAD / CAM,29,43,72,45,37,75,71.0
+STU1015,Kunal Bansal,kunal.b@example.edu,Mechanical Eng,6,Power Plant Eng,27,40,67,40,34,70,71.0
+STU1015,Kunal Bansal,kunal.b@example.edu,Mechanical Eng,6,Refrigeration & AC,28,42,70,42,35,72,71.0
+STU1016,Meera Nambiar,meera.n@example.edu,Data Science,4,Statistics for AI,36,54,90,45,42,92,87.0
+STU1016,Meera Nambiar,meera.n@example.edu,Data Science,4,Data Visualization,38,57,95,40,39,96,87.0
+STU1016,Meera Nambiar,meera.n@example.edu,Data Science,4,Data Mining,35,52,87,42,40,89,87.0
+STU1017,Varun Saxena,varun.s@example.edu,Civil Eng,5,Geotechnical Eng,15,22,37,45,22,42,48.0
+STU1017,Varun Saxena,varun.s@example.edu,Civil Eng,5,Concrete Technology,17,24,41,40,21,45,48.0
+STU1017,Varun Saxena,varun.s@example.edu,Civil Eng,5,Hydraulics,14,20,34,42,20,39,48.0
+STU1018,Neha Chopra,neha.c@example.edu,Computer Science,4,Algorithms,37,56,93,45,43,95,92.0
+STU1018,Neha Chopra,neha.c@example.edu,Computer Science,4,Theory of Computation,36,53,89,40,39,91,92.0
+STU1018,Neha Chopra,neha.c@example.edu,Computer Science,4,Computer Networks,38,57,95,42,41,96,92.0
+STU1019,Gaurav Bhatt,gaurav.b@example.edu,Electronics & Comm,5,Digital Communication,25,37,62,45,33,65,64.0
+STU1019,Gaurav Bhatt,gaurav.b@example.edu,Electronics & Comm,5,Antennas & Propagation,23,35,58,40,31,60,64.0
+STU1019,Gaurav Bhatt,gaurav.b@example.edu,Electronics & Comm,5,Fiber Optic Comm,26,38,64,42,32,66,64.0
+STU1020,Shruti Pandey,shruti.p@example.edu,Information Tech,6,Distributed Systems,34,51,85,45,40,88,82.5
+STU1020,Shruti Pandey,shruti.p@example.edu,Information Tech,6,Mobile App Development,36,53,89,40,37,90,82.5
+STU1020,Shruti Pandey,shruti.p@example.edu,Information Tech,6,Cyber Forensics,33,49,82,42,38,85,82.5
+STU1021,Siddharth Menon,sid.m@example.edu,Mechanical Eng,3,Strength of Materials,21,32,53,45,29,55,57.0
+STU1021,Siddharth Menon,sid.m@example.edu,Mechanical Eng,3,Engineering Thermodynamics,23,34,57,40,27,58,57.0
+STU1021,Siddharth Menon,sid.m@example.edu,Mechanical Eng,3,Material Science,22,33,55,42,28,56,57.0
+STU1022,Kavya Reddy,kavya.r@example.edu,Data Science,6,Deep Learning,35,52,87,45,41,89,84.0
+STU1022,Kavya Reddy,kavya.r@example.edu,Data Science,6,Cloud for Data Science,34,50,84,40,37,86,84.0
+STU1022,Kavya Reddy,kavya.r@example.edu,Data Science,6,AI Ethics & Governance,36,53,89,42,39,90,84.0
+STU1023,Ayush Tiwari,ayush.t@example.edu,Computer Science,2,C Programming,13,17,30,45,18,32,42.0
+STU1023,Ayush Tiwari,ayush.t@example.edu,Computer Science,2,Engineering Physics,14,19,33,40,19,35,42.0
+STU1023,Ayush Tiwari,ayush.t@example.edu,Computer Science,2,Basic Electrical,12,16,28,42,17,30,42.0
+STU1024,Pallavi Sen,pallavi.s@example.edu,Civil Eng,4,Environmental Eng,31,46,77,45,38,80,76.5
+STU1024,Pallavi Sen,pallavi.s@example.edu,Civil Eng,4,Transportation Eng,29,44,73,40,35,75,76.5
+STU1024,Pallavi Sen,pallavi.s@example.edu,Civil Eng,4,Water Resource Eng,32,48,80,42,37,82,76.5
+STU1025,Manish Aggarwal,manish.a@example.edu,Electronics & Comm,3,Analog Electronics,20,31,51,45,28,54,55.0
+STU1025,Manish Aggarwal,manish.a@example.edu,Electronics & Comm,3,Network Theory,19,29,48,40,26,50,55.0
+STU1025,Manish Aggarwal,manish.a@example.edu,Electronics & Comm,3,Signals & Systems,21,32,53,42,27,55,55.0
+STU1026,Ankita Roy,ankita.roy@example.edu,Information Tech,2,Python Programming,36,54,90,45,42,91,86.0
+STU1026,Ankita Roy,ankita.roy@example.edu,Information Tech,2,Digital Logic,34,51,85,40,38,87,86.0
+STU1026,Ankita Roy,ankita.roy@example.edu,Information Tech,2,Engineering Mathematics II,35,53,88,42,40,89,86.0
+STU1027,Harsh Vardhan,harsh.v@example.edu,Mechanical Eng,2,Engineering Mechanics,15,22,37,45,23,40,49.0
+STU1027,Harsh Vardhan,harsh.v@example.edu,Mechanical Eng,2,Workshop Practice,22,31,53,40,25,50,49.0
+STU1027,Harsh Vardhan,harsh.v@example.edu,Mechanical Eng,2,Engineering Graphics,18,26,44,42,24,46,49.0
+STU1028,Simran Kaur,simran.k@example.edu,Computer Science,7,Cloud Architecture,37,55,92,45,42,93,90.0
+STU1028,Simran Kaur,simran.k@example.edu,Computer Science,7,Machine Learning Ops,36,54,90,40,39,91,90.0
+STU1028,Simran Kaur,simran.k@example.edu,Computer Science,7,Information Security,38,56,94,42,41,95,90.0
+STU1029,Devendra Prasad,devendra.p@example.edu,Civil Eng,6,Design of Steel Structures,26,39,65,45,34,68,67.0
+STU1029,Devendra Prasad,devendra.p@example.edu,Civil Eng,6,Construction Management,28,42,70,40,32,72,67.0
+STU1029,Devendra Prasad,devendra.p@example.edu,Civil Eng,6,Prestressed Concrete,25,38,63,42,33,66,67.0
+STU1030,Bhavna Chawla,bhavna.c@example.edu,Data Science,2,Intro to Data Science,35,52,87,45,41,89,85.5
+STU1030,Bhavna Chawla,bhavna.c@example.edu,Data Science,2,Calculus for ML,33,50,83,40,37,85,85.5
+STU1030,Bhavna Chawla,bhavna.c@example.edu,Data Science,2,Data Structures in Python,36,54,90,42,40,92,85.5
+STU1031,Pranav Mohan,pranav.m@example.edu,Electronics & Comm,2,Electronic Devices,16,24,40,45,25,44,52.0
+STU1031,Pranav Mohan,pranav.m@example.edu,Electronics & Comm,2,Circuit Analysis,18,27,45,40,24,48,52.0
+STU1031,Pranav Mohan,pranav.m@example.edu,Electronics & Comm,2,Engineering Chemistry,20,30,50,42,26,52,52.0
+STU1032,Tara Singhal,tara.s@example.edu,Computer Science,8,Distributed Computing,38,57,95,45,43,96,93.5
+STU1032,Tara Singhal,tara.s@example.edu,Computer Science,8,Quantum Computing Basics,36,54,90,40,39,92,93.5
+STU1032,Tara Singhal,tara.s@example.edu,Computer Science,8,Project Viva & Thesis,39,59,98,42,42,99,93.5
